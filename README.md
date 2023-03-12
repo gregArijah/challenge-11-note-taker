@@ -14,7 +14,7 @@ This application called Note Taker can be used to write and save notes. It uses 
 
 ## Installation
 
-This project will be deployed on heroku and can be launched directly from the deployed link. 
+This project will be deployed on heroku and can be launched directly from the deployed link @ https://mysterious-plains-34750.herokuapp.com/
 
 ## Usage
 
