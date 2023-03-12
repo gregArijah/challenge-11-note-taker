@@ -13,5 +13,10 @@
     "title": "note 3",
     "text": "3rd note saved",
     "id": "2"
+  },
+  {
+    "title": "note 4",
+    "text": "fourth note written\n",
+    "id": "3"
   }
 ]
