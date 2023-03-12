@@ -5,7 +5,7 @@ const fs = require('fs');
 const PORT = process.env.PORT||3001;
 const app = express();
 
-let notes = require('/db/db.json');
+let notes = require('./db/db.json');
 
 // Middleware for parsing JSON and urlencoded form data
 app.use(express.json());
