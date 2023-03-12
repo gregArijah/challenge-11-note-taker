@@ -8,6 +8,7 @@ This application called Note Taker can be used to write and save notes. It uses 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
@@ -22,6 +23,9 @@ Click the 'Get Started' button on the landing page to navigate to the notes sect
 In the left section there are all the notes which have been saved, click the title to view the note or click the delete icon to delete the note. 
 
 To create a new note click the plus sign icon in the top right corner. Once data had been entered to the title and text fields, a save icon will appear next to create icon. Click the save icon to save your note and it will appear in the list on the left. 
+
+## Screenshot
+![notes](./images/image_notes.jpeg)
 
 ## License
 
