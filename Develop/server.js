@@ -41,7 +41,7 @@ app.delete('/api/notes/:id', (req, res) => {
 
 //wildcard route for invalid enpoints
 app.get('*', (req, res) =>{
-    res.sendFile(path.join(__dirname, './public/index.html'));
+    res.sendFile(path.join(__dirname, '/public/index.html'));
 });
 
 app.listen(PORT, () =>
